@@ -6,14 +6,14 @@ LED Morse Signal is a low-level assembly language project that controls an LED d
 
 Key Features:
 
-	•	LED Number Display: Converts numbers into binary format and displays them using an LED interface.
-	•	Morse Code Conversion: Converts letters to Morse code, blinking the signals on the LED.
-	•	Binary Data Handling: Optimized to handle binary conversions for both numbers and letters.
-	•	Precise Timing Control: Ensures the correct timing intervals for the Morse code dots, dashes, and spaces.
-	•	Alternating Display: Alternates between displaying numbers and letters in Morse code based on user input or predefined settings.
+	• LED Number Display: Converts numbers into binary format and displays them using an LED interface.
+	• Morse Code Conversion: Converts letters to Morse code, blinking the signals on the LED.
+	• Binary Data Handling: Optimized to handle binary conversions for both numbers and letters.
+	• Precise Timing Control: Ensures the correct timing intervals for the Morse code dots, dashes, and spaces.
+	• Alternating Display: Alternates between displaying numbers and letters in Morse code based on user input or predefined settings.
 
 Technologies Used:
 
-	•	Assembly Language: Low-level programming for direct control of the hardware (LED and timing mechanisms).
-	•	Microcontroller Platform: Developed for use on specific microcontroller hardware.
-	•	Custom Timing Logic: Ensures accurate transmission of Morse code symbols.
+	• Assembly Language: Low-level programming for direct control of the hardware (LED and timing mechanisms).
+	• Microcontroller Platform: Developed for use on specific microcontroller hardware.
+	• Custom Timing Logic: Ensures accurate transmission of Morse code symbols.
