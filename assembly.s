@@ -1,4 +1,4 @@
-; Aida Tadlaoui K23090130
+; Aida Tadlaoui 
 
 ; specify equivalent symbols
 .equ SREG,  0x3f    
@@ -27,7 +27,7 @@ main:     ldi r16, 0      ; set register r16 to zero
 
 mainloop: ; each part of the coursework is in a different loop
 	  
-loop1:	  ; display my k-number 23090130
+loop1:	  ; display numbers 
           ; this will produce a 0x02 value on the LEDs
           ldi r20, 0x02   
           out PORTB, r20  
